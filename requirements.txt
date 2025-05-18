@@ -1,0 +1,10 @@
+# requirements.txt
+streamlit
+python-dotenv
+langchain >= 0.1.0
+# Choose ONE of the following for your initial LLM provider:
+# For Google Gemini:
+langchain-google-genai
+google-generativeai
+# OR For OpenAI:
+# langchain-openai 
